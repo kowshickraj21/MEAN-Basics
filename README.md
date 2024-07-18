@@ -1,2 +1,2 @@
-# 7376221CS206
+# MEAN STACK BASICS
 Learning MEAN Stack 
